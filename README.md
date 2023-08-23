@@ -1,4 +1,4 @@
-# Olá, eu sou Ícaro Pierre Luna 👋
+# Olá, eu sou Icaro Pierre Luna 👋
 
 Seja bem-vindo ao meu perfil no GitHub! Sou um entusiasta da tecnologia com uma forte paixão por resolver problemas. Minha formação em Análise e Desenvolvimento de Sistemas me proporcionou uma base sólida em programação e resolução de desafios complexos. Atualmente, estou focado em aprimorar minhas habilidades em Java enquanto exploro oportunidades empolgantes no mundo do desenvolvimento de software.
 
